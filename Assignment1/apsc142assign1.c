@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <math.h>
 /*
  * Use C to calculate complex mathematical expressions.
  */
@@ -13,7 +14,7 @@ double riemannSum(double lowerLimit, double upperLimit, int numRectangles);
 
 int main(void) {
     printf("%f",inverseFactorial(0));
-    return 0;
+
 }
 
 //Uses Equation (1) to evaluate the inverse factorial of an input integer

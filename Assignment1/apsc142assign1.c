@@ -42,7 +42,7 @@ double taylorSeries(double x, int numTerms) {
 
 //Uses Equation (4) to evaluate an approximation of integral of e^x^2.
 //Takes in values of lowerLimit and upperLimit as a doubles, and number of terms in taylor series as integer
-//outputs approximation of integral of e^x^2 from lowerLimit to upperLimit
+//outputs approximation of integral of e^x^2 from lowerLimit to upperLimit using taylor series approximation
 double integralTaylorSeries(double lowerLimit, double upperLimit, int numTerms) {
     double num = 0;
     for (int n = 0; n <= numTerms-1;n++) {
@@ -51,9 +51,9 @@ double integralTaylorSeries(double lowerLimit, double upperLimit, int numTerms) 
     return num;
 }
 
-//Uses Equation (4) to evaluate an approximation of integral of e^x^2.
-//Takes in values of lowerLimit and upperLimit as a doubles, and number of terms in taylor series as integer
-//outputs approximation of integral of e^x^2 from lowerLimit to upperLimit
+//Uses Equation (5) to evaluate an approximation of integral of e^x^2.
+//Takes in values of lowerLimit and upperLimit as a doubles, and number of rectangles in Reimann sum as integer
+//outputs approximation of integral of e^x^2 from lowerLimit to upperLimit using riemann sum
 double riemannSum(double lowerLimit, double upperLimit, int numRectangles) {
     double num = 0;
     for (int n = 0; n <= numRectangles-1;n++) {

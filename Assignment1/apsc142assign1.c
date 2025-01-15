@@ -16,6 +16,8 @@ int main(void) {
     printf("%f\n",inverseFactorial(0));
     printf("%f\n", taylorSeries(-3,100));
     printf("%f\n", integralTaylorSeries(-2,0,3));
+    printf("%f\n", riemannSum(-2,0,3000));
+
 }
 
 //Uses Equation (1) to evaluate the inverse factorial of an input integer
@@ -48,4 +50,16 @@ double integralTaylorSeries(double lowerLimit, double upperLimit, int numTerms) 
     }
     return num;
 }
+
+//Uses Equation (4) to evaluate an approximation of integral of e^x^2.
+//Takes in values of lowerLimit and upperLimit as a doubles, and number of terms in taylor series as integer
+//outputs approximation of integral of e^x^2 from lowerLimit to upperLimit
+double riemannSum(double lowerLimit, double upperLimit, int numRectangles) {
+    double num = 0;
+    for (int n = 0; n <= numRectangles-1;n++) {
+        num+= taylorSeries(lowerLimit+n*((upperLimit-lowerLimit)/numRectangles),100)*((upperLimit-lowerLimit)/numRectangles);
+    }
+    return num;
+}
+
 

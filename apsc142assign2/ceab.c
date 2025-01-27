@@ -8,7 +8,7 @@
 // description: calculates the remaining required AUs for a given area according to
 // CEAB, given the already taken AUs in that area.
 // preconditions: area is one of the codes from ceab.h, already_taken >= 0
-// postconditions: returns the remaining needed AUs between 0 and the required AUs
+// postconditions: returns the remaining needed AUs between 0 and the required AUsm
 int aus_remaining(int area, int already_taken) {
     int required = 0;
     switch (area) {

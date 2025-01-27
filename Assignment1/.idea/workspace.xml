@@ -24,7 +24,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c67749ef-2997-4e68-a2e2-f703ee53fac3" name="Changes" comment="Test" />
+    <list default="true" id="c67749ef-2997-4e68-a2e2-f703ee53fac3" name="Changes" comment="Test">
+      <change beforePath="$PROJECT_DIR$/../Week3Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week3Practice/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,11 +36,17 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="Git.Rebase.Settings">
-    <option name="NEW_BASE" value="origin/Assignment1" />
+    <option name="NEW_BASE" value="Assignment1" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="Practice" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -96,9 +104,9 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ File.apsc142assign1.c" />
       <item itemvalue="CMake Application.Assignment1" />
       <item itemvalue="CMake Application.tests" />
+      <item itemvalue="C/C++ File.apsc142assign1.c" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -113,6 +121,8 @@
       <workItem from="1737487750265" duration="1000" />
       <workItem from="1737487797484" duration="1088000" />
       <workItem from="1737488907241" duration="381000" />
+      <workItem from="1737489293083" duration="2003000" />
+      <workItem from="1737506795964" duration="123000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <option name="closed" value="true" />
@@ -178,7 +188,31 @@
       <option name="project" value="LOCAL" />
       <updated>1737489161307</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Test">
+      <option name="closed" value="true" />
+      <created>1737490283410</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1737490283410</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Test">
+      <option name="closed" value="true" />
+      <created>1737490488737</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1737490488737</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Test">
+      <option name="closed" value="true" />
+      <created>1737490669172</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1737490669172</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

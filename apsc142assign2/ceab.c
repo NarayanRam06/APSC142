@@ -56,8 +56,8 @@ int can_graduate(int ma_taken, int ns_taken, int es_taken, int ed_taken, int cs_
     // add up the total taken AUs
     total_taken = ma_taken + ns_taken + es_taken + ed_taken + cs_taken;
 
-//    printf("Remaining area needs: %d\nMA/NS taken: %d\nEng taken: %d\nTotal taken: %d\n",
-//           area_needs, ma_ns_taken, eng_taken, total_taken);
+    printf("Remaining area needs: %d\nMA/NS taken: %d\nEng taken: %d\nTotal taken: %d\n\n",
+           area_needs, ma_ns_taken, eng_taken, total_taken);
 
     // check all four requirements
     // 1. each area has the requirements met

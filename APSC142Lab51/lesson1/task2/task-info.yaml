@@ -1,0 +1,37 @@
+type: output
+files:
+  - name: src/main.c
+    visible: true
+    placeholders:
+      - offset: 39
+        length: 32
+        placeholder_text: /* Include the String Library */
+        initial_state:
+          length: 32
+          offset: 19
+        initialized_from_dependency: false
+        encrypted_possible_answer: NscarvyTUjJfia3nY5UxMVBk+n1W7E11LAYhM5imsno=
+        selected: true
+        status: Solved
+      - offset: 802
+        length: 405
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 701
+        initialized_from_dependency: false
+        encrypted_possible_answer: IJDg7fCDrsQxy+iwy3aOKNN2cDba7fj1wZgG7y6flzl3ARcwiZiNqahMDZJDXZv6qUQEhn9F1f16k4PdNr5v3KG819RPCfk+E5BGrXQfUqRbL1opg9xZb/7OmVN4c1nZ9JyemJqDhkQ9jStjm9ipS8wkNL3pJRlKl5di4fs0sR7eiwYRr2OZjnjEeSH6NYqCl58b2jJ+Ur4yT0SgtsHiAOLZwjuv0A/ZdTZzAT0YcGk8ju2aHjEd3qqWgWlNdJmel6yV3QJ80e4xvFM2fHZoZ3r8hYxJFtapkURnNeu2B3dRs9eBvZrjjjPB69PKnTbqnIvnPgNzUGVRPQVOAPPL+rnVXPZcNg3G4CagFw1AJsn+yf2Z8iqG2tBcJ7ijs0nZn+dJVd/Ne7z201ywa3x+dR54Jccr2oDhwXL24Yi5+swoIM7L+8c9se+zbMeqvqGFaGJ49LDSeKWF6k6F1CueQtzm3eWCa2q3tkeBYD3oet7GhWlyzjo75D4Ut0o/Oi3gtjDu9u31Y/ZuFFEh6l9W3bUDYrgENteQIQLY8rxZXdt9Jbcr0kqKIjvaOoncs1UHR/87DWoZh0YXCj5iUmY+CAIWUQ9wcqFx9YhHM5Klby/MfCgANAGll7erMG/Ay8WtxfnTlWsv+60nHNwwAr8uuYz6mSBn9VPcLpLDiFCXU46P8yJfRWAo1mifBg5qzOBBPdP9wqw4imSHYg7OhKUgYB9zWlYCmDNiURyccUGs+vM=
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 04 Feb 2025 18:04:01 UTC"
+record: -1

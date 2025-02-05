@@ -1,0 +1,48 @@
+type: output
+files:
+  - name: src/main.c
+    visible: true
+    placeholders:
+      - offset: 278
+        length: 64
+        placeholder_text: //Give initial values to all variables. Calculate myArrayLength.
+        initial_state:
+          length: 64
+          offset: 278
+        initialized_from_dependency: false
+        encrypted_possible_answer: OAnAF4MXBmPHHuLXztF0XXYDNHAIVKgCK77d/0RaOnNX5Mz7ZjQ5O9iSovJ1qtv7CvwOKSEzI+Lkf+LtZqr1V+X6dN4MzU6C0xfR/C6zFT9R0r2fTgfP+l385Jvnbz2UqK3Er94ewj78uEOoH7dHOhIW7U50Qu6p1Ld4YBV05pyWZHNezta8y2Iccf4b3rl1g8i/ksvgv1VIyE4FHq7T6ekekS5M6aaXA87JlwsbIQ0AMBmPIhkn9Zzw1zIj2dWhVt5F5wWSGbJXuxyKGkG0/VgdC74TEvyz6sp5p79N53SQKNF6X0crt93kETNbWxaK9ZDVBcDJrK5UfGAzYa6wuXZSwnOaw9et41hJIbQCHAt0vqfTu3P5sJ8pUE7lFot3zEb5TbY1tja86JEDzQkbXLIG7O9dunD31J0UJmpwplLKQQxcvOyBVv+Ewbz/cfhv351gk6wHdYNJzABQQfJai5JgrwPib/IimmY2xsvyzd4=
+        selected: true
+        status: Solved
+      - offset: 470
+        length: 68
+        placeholder_text: //Write code to find the requested information about the given
+          array
+        initial_state:
+          length: 68
+          offset: 344
+        initialized_from_dependency: false
+        encrypted_possible_answer: MMiYB5ZZh2vW4Kd4UXhDjjMvRn90ezLkUaMxSnn3SNc+BViWgvMX7mM6XrzRM4MAbB+L4pzHWrpD52b+7rkx42ZQSQeKhQ5abJEHdg5+gcT5mmhdcsDTwbFJtPz09nEQBLoRUidtiR6MhcUyJQww4Z8jHFOWLU4lcOBeK6YdbAfUqzpO8Ryrw3J2BJvqsqJNQwZE5YNkRWyMa2jr/3Mq2LzGMB50FwW96R2ybZNS0J4oTi9oJDVIXLF7omrrgDD0s5vWcg8O3jE4nCqMEpBMHThJG1LsoskawOe5SlLeRGLuvWiqwqYaVPfBOiKdpDR9o7EH0R1ZmPCocVk6/DlYwgWaHGqDAgHVPEnAODu95xKQDASzFrNABTHlFHm+mE2QZqNZjPzjb7KQD/+wNi+utBSKUdu0IwRvEcNkdjTUNUu5JrUDMY5KQPUxo5W958faocgofG7jz60hnSwhYMXZ/HOY8zDzNUJIN4rpTUWc3tMC70EpODTkUDvat6CZiAVNpL8Xf2SV+TSVzrVb5wA11A==
+        selected: false
+        status: Solved
+      - offset: 908
+        length: 42
+        placeholder_text: //Write your remaining prnt statements
+        initial_state:
+          length: 38
+          offset: 466
+        initialized_from_dependency: false
+        encrypted_possible_answer: rpkHeyXKmf3YmCDJlld7GGUWl27w2Xvg4+ER4GxqIWbVyIXKUYGbMySCuehk/3gq1SI+pWVvX4QSsBpjOqdPhD7iEyCzPXorT9+zbK1Hzy7z6lKEBdVj3y46bJ7JZFpBhSgfX9ArlN9HtNw/lBXnGU9+Lg0uCBi2gPgIVjLSJOI=
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 28 Jan 2025 01:26:05 UTC"
+record: -1

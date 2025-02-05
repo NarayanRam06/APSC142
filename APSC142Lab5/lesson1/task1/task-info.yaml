@@ -1,0 +1,28 @@
+type: output
+files:
+  - name: src/main.c
+    visible: true
+    placeholders:
+      - offset: 161
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 161
+        initialized_from_dependency: false
+        encrypted_possible_answer: 5RQ7hi7l1WVdwyYevCZRvaACevyGYx3QxkGjS90u5im0fxkaOn6fsj8s99GDNiiD1ON5J+g1sp7qGOt+G7FaWl/wR8C8F3+uA1fS4uLfluVH8XDhBXeio68qjiYh8CjDuxOASFxGBvLbPd+6hsjOk+g4ExN+KtaVKzb4p+1C3tQUYaQIEqZ2esOTkEgTMvTTc6Sm21OMaCeiNjxrnmtq0KbgvliJuPfumKAod03Uv3SIdvGUzT0ywNp5T/eqG/7miD5LUQcvYaL0FmzSltY/QXjcSnbJx78Zb5esHlV4S98CjF2Vb/GsgKA6d8NFEoar9GYe4xY6kTUAQV8h2XQ5PmGYvZWYncNhfP17r7+V8jWwHgUKEugUnXe162KP2huXkjA6ZvLeAC9IyETyAhHv1PV5pNTct/gJkWGkf5GlTCXO9RHWWJeh6UV4feHQruFI
+        selected: true
+        status: Unchecked
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+feedback:
+  message: "Failed to launch checking. For more information, see <a href=\"https://plugins.jetbrains.com/plugin/10081-jetbrains-academy/docs/troubleshooting-guide.html#failed_to_launch_checking\"\
+    >the Troubleshooting guide</a>"
+  time: "Tue, 04 Feb 2025 00:57:07 UTC"
+record: -1

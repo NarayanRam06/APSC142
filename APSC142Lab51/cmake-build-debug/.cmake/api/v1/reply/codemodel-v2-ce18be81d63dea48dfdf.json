@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29.6"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "lesson1/task1",
+					"jsonFile" : "directory-lesson1.task1-Debug-56a1c393ff03cb53e695.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29.6"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "lesson1/task1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "lesson1/task2",
+					"jsonFile" : "directory-lesson1.task2-Debug-f5b40cfb9fe1eea4f871.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29.6"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "lesson1/task2",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "APSC142Lab5"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "global-lesson1-task1",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "global-lesson1-task2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "global-lesson1-task1-run::@b83244917bc34fb59b9b",
+					"jsonFile" : "target-global-lesson1-task1-run-Debug-251321aa5d8781c13cf1.json",
+					"name" : "global-lesson1-task1-run",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "global-lesson1-task2-run::@4565297e15e712ea11e8",
+					"jsonFile" : "target-global-lesson1-task2-run-Debug-d9ea3884c968a9fc2d4d.json",
+					"name" : "global-lesson1-task2-run",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Narayan Ramachandran/CLionProjects/APSC142/APSC142Lab51/cmake-build-debug",
+		"source" : "C:/Users/Narayan Ramachandran/CLionProjects/APSC142/APSC142Lab51"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

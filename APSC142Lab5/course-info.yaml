@@ -1,0 +1,12 @@
+type: marketplace
+title: APSC142Lab5
+language: English
+summary: "This is the Learning Module for APSC142 Lab5, focused on Strings."
+programming_language: C/C++
+environment: Catch
+content:
+  - lesson1
+mode: Study
+solutions_hidden: true
+vendor:
+  name: Sean Whitehall

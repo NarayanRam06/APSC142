@@ -1,0 +1,12 @@
+type: marketplace
+title: APSC142_Lab4
+language: English
+summary: This is the learning module for lab 4 in APSC142 focussed on arrays.
+programming_language: C/C++
+environment: Catch
+content:
+  - lesson1
+mode: Study
+solutions_hidden: true
+vendor:
+  name: Sean Whitehall

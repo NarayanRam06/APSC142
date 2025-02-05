@@ -29,7 +29,7 @@ TEST_SUITE_BEGIN("aus_remaining tests");
     }
 
 
-    //Test cases for if already_taken > required
+    //Test cases for if already_taken < required
     //testing that correct remaining is returned
     //Math
     TEST_CASE("already taken < required for MA") {

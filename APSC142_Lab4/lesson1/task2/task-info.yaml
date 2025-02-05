@@ -1,0 +1,37 @@
+type: output
+files:
+  - name: src/main.c
+    visible: true
+    placeholders:
+      - offset: 70
+        length: 91
+        placeholder_text: //Declare your <empty> array using ROWS and COLS for sizing
+        initial_state:
+          length: 59
+          offset: 70
+        initialized_from_dependency: false
+        encrypted_possible_answer: RvOo6fkPWLaw+vvo4wU9Ld7KEXkNuZCgY1t0LdUsZvCBKkB0WubvGtisVwYB9lFZAeAyGHtg2UboDUpklLYt2HAVSzZ8KcRdvQTuKwEbsE3p5zoeOPPWroXlY+MbcggG
+        selected: true
+        status: Solved
+      - offset: 206
+        length: 55
+        placeholder_text: //Write code to fill in your array AND print your array
+        initial_state:
+          length: 55
+          offset: 174
+        initialized_from_dependency: false
+        encrypted_possible_answer: 2VW9Gl0zCVVjIZ+DHJ4py25e1WxPoN7+0JwuztA++ZByex4Id5+iAVNEwEqOSAmWrPRcouAQaMr9LLxTsN1RUwktaECj4SUPFkVrv/LwHCbCCE9ZhEllsYxEC6brc/KuAM19IGoHXiyHLTFo1Uz7bcj2cP4aXeSXQb95mV2ARzChedDAViodcg7zGjdPiBdEQkHdUqB9PpRD3n6NFXYDrKS2hTqv/LvORs2bPmV7oTUkLbvh6I2174O6AhHlDWQjGCjI45EYjGpmk2lj7nuwE01arTD3PEoMA9K6xvWQ05JTGGId1GA61QklNWFq6ZPRbkwrtbX6flVBjFV105oUzMlWCdXwCVoQw9/duXTXzGM=
+        selected: false
+        status: Solved
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 28 Jan 2025 17:29:29 UTC"
+record: -1

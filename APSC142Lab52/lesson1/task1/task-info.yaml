@@ -1,0 +1,67 @@
+type: output
+files:
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/main.c
+    visible: true
+    placeholders:
+      - offset: 336
+        length: 11
+        placeholder_text: /* Other variables you need */
+        initial_state:
+          length: 30
+          offset: 339
+        initialized_from_dependency: false
+        encrypted_possible_answer: 85T/SKCoK8d6GcYPeHX+8JXdX9FE+cDen+mdKh3tJF7ZCeogCcqSyFRHAW4Lp57Nn4HK3EQlBWVD2j1hp47c3nop4Y81H6K+bO6B4irrHHcztc9/OSMVaCsFXOf0DYT5sEAoKaJgz+uT++YKzrihKQ==
+        selected: true
+        status: Solved
+      - offset: 1178
+        length: 48
+        placeholder_text: /* Exit the loop if the number is less than 0 */
+        initial_state:
+          length: 48
+          offset: 542
+        initialized_from_dependency: false
+        encrypted_possible_answer: yhdx2mxBQbn99O/MI0DtS54V69YR1sRi/NYgYxe+Ga+oCI86+9y9E1r2lOinCZIs9RKfo2p8X8u8vNpu2vUGUvbwDMGJEXlAB14XQ1rN53DtRYjxyff6QZ9I1mbseUZiyCf9pmDKqQbjpca2GbkYiRaomi3lYqTzzfTdet79XA0=
+        selected: true
+        status: Solved
+      - offset: 1240
+        length: 53
+        placeholder_text: /* Add the new number and print your updated array */
+        initial_state:
+          length: 53
+          offset: 604
+        initialized_from_dependency: false
+        encrypted_possible_answer: //dBLd7KSkZiwNOgqdW2BjQTPivx3pYzASw5LBIsPVm2vcS1eCIlSJBPbLF1X/hUaO/TXTa14cke3aVHEZnFeadbHSoBUG2D3Z22bxnEk+SA2lNTZDDYITZ4KxX0l3XV2/oSUlFA+l0YYX3eS8Dt1a80OXoWRMb4FT8GcCYkJlYhukibpTH0O3v47eqYVb6bibKi7Vg4yXq/an9tzKp5ffC53oIzqeQIA2/9fSwMTcKFGO7TZsQ3oC0YCoKlmnI+Dx0l+A5ubcXt2A/kq3tn2Q==
+        selected: true
+        status: Solved
+      - offset: 1307
+        length: 49
+        placeholder_text: /*Use a temporary pointer to re-allocate memory*/
+        initial_state:
+          length: 49
+          offset: 671
+        initialized_from_dependency: false
+        encrypted_possible_answer: sq8CgRuXxry+owDl3D7aY5D6kF6gM4hYkBZyJOYd/1+/Mm+yju5aWKGvYF5W49GnfpoGoVKfTZFI4sd0FldulxlqSK22hODBRDG/ZgE6DEKEDEYZL5AKC0IOuGsY1xDUGQd2cLn1f2gxFMfICLqv81J75lqSmbzpQjT4DN8CgeOOVTLuf6chHJWbFDR9Z6YUgYSIpz/uNsjoHA/vT0GiP/7RnKW2BqCk+tmXKSxw1UjPXonBEnJK8q/0dQqzCuE7hcQ4Com8ZmOH0UZkZAPoHhpVhNZMCCHIlKaEhacf0WMfs92l5FzXmVO7v0EgcS2CFj9eLWWnsT4TCzFjtV8XGQ==
+        selected: false
+        status: Solved
+      - offset: 1409
+        length: 46
+        placeholder_text: /* Free your pointer */
+        initial_state:
+          length: 23
+          offset: 773
+        initialized_from_dependency: false
+        encrypted_possible_answer: ukhvC8IEn4cYdZ2OMzM/gHWhsPfTwZIcnkDPUI/PO+Z0xyBUikhO4+JRlBowE3t2yuZJtEy10ksJxp9maK1kgQ==
+        selected: true
+        status: Solved
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 25 Feb 2025 18:05:03 UTC"
+record: -1

@@ -1,0 +1,12 @@
+type: marketplace
+title: APSC142Lab5
+language: English
+summary: This is the Learning Module for APSC142 Lab 5 focused on Memory.
+programming_language: C/C++
+environment: Catch
+content:
+  - lesson1
+mode: Study
+solutions_hidden: true
+vendor:
+  name: Sean Whitehall

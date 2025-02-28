@@ -1,0 +1,47 @@
+type: output
+files:
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/main.c
+    visible: true
+    placeholders:
+      - offset: 1171
+        length: 33
+        placeholder_text: /* TODO SWAP */
+        initial_state:
+          length: 15
+          offset: 1106
+        initialized_from_dependency: false
+        encrypted_possible_answer: 6NFQX7NR2SqWM51DrkZ8H7WFriSTSAR5TJb23nHcy6HcR2IXe9/UdKeps6PB0WVrj9kXYsD/HZfpy/WyeSgmi7KZnw44x5518SMxkaMqPJnDoYSq6+LwtqD97/SLeuPhscHqLWNDdsmWGaP87rHLEA==
+        selected: true
+        status: Solved
+      - offset: 1509
+        length: 474
+        placeholder_text: /* TODO Selection Sort*/
+        initial_state:
+          length: 24
+          offset: 1425
+        initialized_from_dependency: false
+        encrypted_possible_answer: BwK347+fHjlQ+C9F0BDjwSyvncAEwY+GcUw9Mb4AysRjChcOx0MHp54+buF4NIOLCw1v/nrfx1is3wzWdhleYwNIgK6Rv+sC0QiZngrvfRBy5bZxtXmzzQheJzatrrOV2/6/nl4WJn7h4HtN33Ub3xGRS11wIkcXJ+9KNGWf21t7AJQTa14Mjnq07iGMR+JkITsUO+YBXVs65zycTkWj63mORqHkoo+N1BO4zO8VkzP2nHnubnirLN84YKchB8+S6slRFLSBloPTN/41iwqC9VZrqZucLlt/yAjaSq3FbrqYxyRR3uwYl0Qj6aggZHZSQ3jDeXcUo+x049I4ll0zUIjFV9L/waBaJAtfSUSAgh5jtQ4t8neSfCeA7jaRbI87D21dtRBYCpBp1UivlcSpn1k8PN5fzHj+W3p8CbqGICbxG1JbZBE8/t0It4vlk3LzuktULMGpkINU7LTYzxHTx7hQDCwgS1/oG42Sgm8xovQHvvMItA9kewgzOSSFkhAAHwFTi0QnCCgHYipRvL3PNuI0+XfXmqO19oUi0gP1yMO7wghosC0b/BzZ6r9uIXxnAfoYNceAabFAUd+/EvZaszRep28YYNGV8gXz+N8+Oblv46gAxedZRQhEAu17aRz8iO+sWKjB43vsi4SkpQQHu510eIJfKguGuSPnM32j/gExR7j+U+bfXTowH/QL0X6w
+        selected: true
+        status: Solved
+      - offset: 2019
+        length: 435
+        placeholder_text: /* TODO Insertion Sort*/
+        initial_state:
+          length: 24
+          offset: 1488
+        initialized_from_dependency: false
+        encrypted_possible_answer: 16QUYBQJm7Ti55sItbdEeq3SntMAXxx2vwnalAhAgagIpGWdrOQOCtMqCeodx/CDBGpiMbJnoeH15c2GVIdpKFm6xV2+D40Vhtmz79JxOz7TitxSnFLX/e0QT7ytKHhTANmcj+tBF6X8e4MRFoUeCCYiUbZXD1powY/Q8J8E3H0g6pmk8cjF0kT/WJaiMZolP8DfkZBbIk2clLklEylYaRkHngCdtSn2S8LEF3ZreXTSA+gE6ByWvK0nxEiKz8wXTdhqPRzv9l8DpclIJFCZXRJ0zg7EN67LDnN+Ix/SSuXt0RIx2Sds1PVqjibRD5s3pYps14DHw2JDs9ypTFBjGURX32glTjDFr+It0XgsiBPzP4ETMNsHY71uNs14qYJ03walhSKnRoMcOZ2hnPcXxCazwfQqS8leH+aOE+7X2WiRV86+A0sEvhcR2j84+2EVvWGfJxX+2QHp7Vkh9+mcqdCZOWRxzGoX5YNg8xy5igiedZ8JGW9SXWecfjBD3sY+wXFNBAVn/ofD9KSnl+D9ZCqE/MDgtzTkKaPk3mseKpZgT6rSMIdLd4ehWuxziP5MeEgeNuDOByNCoyjB0p82gYYYxa+/z7FE4e7VWRtd58eUFoU4ZpD4QmCW5bhBnDwXG1ogp6ntRDoed50dhtSs+Ma7qzKS6zsovbsHRPfmO2ZHDcjr+5xH/kcFaqJ2JFHQJX6ifDdJoukI1/RZe3uIZImaFW8uqNbT/rDS9KXeR6I=
+        selected: true
+        status: Solved
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 11 Feb 2025 18:19:30 UTC"
+record: -1

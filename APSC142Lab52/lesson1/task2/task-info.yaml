@@ -1,0 +1,47 @@
+type: output
+files:
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/main.c
+    visible: true
+    placeholders:
+      - offset: 1009
+        length: 28
+        placeholder_text: /*Check for a null pointer*/
+        initial_state:
+          length: 28
+          offset: 562
+        initialized_from_dependency: false
+        encrypted_possible_answer: cEDaHjsDpmsBnu1E8CqtY6Roxz3QUPZajNpT0ea4y4g0ptShi7k2vKjrmNEgVyVW5a1/oX9SxmFufDNtiPho71vx0dnk9ZQU1/P8WacCAESmMd3ZaKr7IZx8MtJehN9eRRPxLV4NYwh9N/KnRNZMPXeX1B+BnWMPqmQDVCOVxLnctiwaos9UHcxcIkAf65qbzq8MmQNTzGXtC9oz5sIIXQ==
+        selected: true
+        status: Solved
+      - offset: 1046
+        length: 44
+        placeholder_text: /*Loop to read and print the file contents*/
+        initial_state:
+          length: 44
+          offset: 599
+        initialized_from_dependency: false
+        encrypted_possible_answer: r4HP4bCJGikf5dHECRhjdA1KaxoPRJjyjFVR26gmJAZgdFjFTvYsxWCL6H5jpgWeyGpUA9MPRXNoMcXuCzglZp41v2uE32zkhxjLKZ33PXC+e5XweGF8COwM2ymTEP8xKABV0mWAd6VxIDufBQMZ7TbgDEZmqX+96pkMfk+J+zG7CAWchWSy4yfyptH0bUCSoQvLbLldSBgXWbjjaoEZ2Lq0Uox16Ts0vLiF/xELYepcWqm7Ym8FPF4Rn2ByBc0Fk8mvLrA8qfcVWwPi5iI9/OajAA8AgoUZz1AHHCy6fE6GGCKf7aK6MhMXQHRKktDnN64/YBUdgHKzSANhMtacop2W5enWPt3btfMS6I28sr4iB10vrBN6NsZLGvO9Srf3eI3gXbJjtqmIxIOSaDTgdeUdinmjrC5EhHwMhrrEmY9DDrdmcDsHaOupFEAWepV+wwA8w2P73qCHDoGPR80jxBe/fuydlT14vm/pAzTgcFO3g9P5gfq2DsneGFdCw0QGuaBF6HZEuqNHC2pJ3NythQ8eE9OMuXaOZ6o6kAxrDB5SfThbxtTuU2b9lVEpdX8x
+        selected: false
+        status: Solved
+      - offset: 1099
+        length: 46
+        placeholder_text: "/*Close the file, nullify the pointer, print*/"
+        initial_state:
+          length: 46
+          offset: 652
+        initialized_from_dependency: false
+        encrypted_possible_answer: mFCGgSIgNkkXaAVFtlF30ynPmYHqsmmkvWQZ86RLCZ8JWzLwrqx6trcErp9BjnXo83+y21voUpwDyz0Vo47nonoW+G1LlsbpoRuWhGRbRhQjYgTEDtd+8Cm1DBl7Ujechf2qRZAZ10FekLuuvJQYUThwg04HUtPveGPdMd7QEOicp/xKHTxqCFwP90ttXGkwNaeVHBrrW72kNXypdSBoRQ==
+        selected: true
+        status: Solved
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 25 Feb 2025 18:20:34 UTC"
+record: -1

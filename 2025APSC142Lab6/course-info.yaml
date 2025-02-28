@@ -1,0 +1,12 @@
+type: marketplace
+title: 2025APSC142Lab6
+language: English
+summary: This is the Lab Leaning Module for APSC142 focused on searching and sorting.
+programming_language: C/C++
+environment: Catch
+content:
+  - lesson1
+mode: Study
+solutions_hidden: true
+vendor:
+  name: Sean Kauffman

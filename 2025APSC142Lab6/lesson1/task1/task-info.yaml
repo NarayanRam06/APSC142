@@ -1,0 +1,27 @@
+type: output
+files:
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/main.c
+    visible: true
+    placeholders:
+      - offset: 862
+        length: 232
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 869
+        initialized_from_dependency: false
+        encrypted_possible_answer: 8/meZNdFdujOx/zHJJ4NdHgGGtXBl2iJG3nt3Zl2VRqIl70po1XXCExMNXKLwP/iTFd5bfAvSsJYr0h84tUgCm6tSzpra7pXGg+Pftgc7zzAyDs8XxiQa+2y/yBZfKg4duvqxymp9KQg9CZdU58kYfq+tF0VY1CscgE489lvPnawuJeutCRElegnb0syyLvuHFKpSy2cl2NH+vUF/T1NIz0rNb75iMfQBtLktDVrjR8q7zV5ceGaOH5ADf1d712KOj+cRFZWdYuwyrnBCYXIN9qAXCaEI0wiPW0wlft3j30=
+        selected: true
+        status: Solved
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 11 Feb 2025 17:35:12 UTC"
+record: -1

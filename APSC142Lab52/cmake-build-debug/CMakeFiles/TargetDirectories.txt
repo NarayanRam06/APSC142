@@ -1,0 +1,8 @@
+C:/Users/Narayan Ramachandran/CLionProjects/APSC142/APSC142Lab52/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Narayan Ramachandran/CLionProjects/APSC142/APSC142Lab52/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Narayan Ramachandran/CLionProjects/APSC142/APSC142Lab52/cmake-build-debug/lesson1/task1/CMakeFiles/global-lesson1-task1-run.dir
+C:/Users/Narayan Ramachandran/CLionProjects/APSC142/APSC142Lab52/cmake-build-debug/lesson1/task1/CMakeFiles/edit_cache.dir
+C:/Users/Narayan Ramachandran/CLionProjects/APSC142/APSC142Lab52/cmake-build-debug/lesson1/task1/CMakeFiles/rebuild_cache.dir
+C:/Users/Narayan Ramachandran/CLionProjects/APSC142/APSC142Lab52/cmake-build-debug/lesson1/task2/CMakeFiles/global-lesson1-task2-run.dir
+C:/Users/Narayan Ramachandran/CLionProjects/APSC142/APSC142Lab52/cmake-build-debug/lesson1/task2/CMakeFiles/edit_cache.dir
+C:/Users/Narayan Ramachandran/CLionProjects/APSC142/APSC142Lab52/cmake-build-debug/lesson1/task2/CMakeFiles/rebuild_cache.dir
